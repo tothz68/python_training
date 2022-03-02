@@ -16,6 +16,8 @@ minutes = 60 * hours
 print(str(hours) + " óra az " + str(minutes) + " perc" )
 
 word="qwertzasdfyxcv"
-print("A" + word +  (str(len(word)) + "hosszu"))
-
+print("A " + word + " szó " + (str(len(word)) + " karakter hosszu"))
+print(len(str(word)))
+print(str(word))
+print(word)
 
